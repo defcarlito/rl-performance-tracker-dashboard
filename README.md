@@ -9,4 +9,4 @@ I am unable to provide link to the live demo of the site at this time. Instead, 
 
 ![Demo of site](/public/ex/demo.gif)
 
-The filter options are a bit limited right now, I plan to add more in the future. You may either filter by limit *or* by date. The log in the middle of the site shows all the matches as a result from the filter. Click show details to view match stats and some other information about that match. The graphs on the right showcase my MMR change over `n` days, where `n` is the number of matches resulted from the filter.
+You may either filter by limit *or* by date. The log in the middle of the site shows all the matches as a result from the filter. Click show details to view match stats and some other information about that match. The graphs on the right showcase my MMR change over `n` days, where `n` is the number of matches resulted from the filter.
